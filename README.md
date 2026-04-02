@@ -1,2 +1,33 @@
-SmartBank is a full-stack banking application designed to simulate core banking operations in a simple and efficient manner. The system enables users to create accounts, perform transactions such as deposits and withdrawals, and track account details in real time. It is built using a combination of frontend and backend technologies, ensuring smooth interaction between users and the system.The frontend of the application is developed using HTML, CSS, and JavaScript, providing a user-friendly interface for performing various banking operations. The backend is implemented using Spring Boot, which handles business logic, processes user requests, and exposes restful APIs for communication. MySQL is used as the database to store account and transaction data securely, ensuring data persistence and integrity.
-The application follows a layered architecture consisting of Controller, Service, and Repository layers. This structure ensures better organization, maintainability, and scalability of the code. The Account module manages user details, while the Transaction module handles deposit and withdrawal operations and records each transaction with relevant information such as type, amount, and timestamp.One of the key features of SmartBank is the integration of an email notification system. Users receive real-time email alerts for every transaction performed, enhancing transparency and user awareness. The system also provides transaction history for each account, allowing users to track their financial activities effectively.Overall, SmartBank demonstrates the implementation of a complete full-stack application by integrating frontend, backend, and database technologies. It highlights practical concepts such as REST API development, database management, and real-time notifications, making it a reliable and user-friendly banking solution.
+Smart Bank 💳
+SmartBank is a full-stack banking application designed to simulate core banking operations in a simple and efficient manner. The system enables users to create accounts, perform transactions such as deposits and withdrawals, and track account details in real time.
+
+🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Spring Boot
+- Database: MySQL
+
+⚙️ Architecture
+The application follows a layered architecture:
+- Controller Layer
+- Service Layer
+- Repository Layer
+This structure ensures better organization, maintainability, and scalability.
+
+🚀 Features
+- Account creation and management  
+- Deposit and withdrawal operations  
+- Transaction history tracking  
+- Real-time email notifications  
+- Secure data storage using MySQL  
+
+📦 Modules
+- **Account Module**: Manages user account details  
+- **Transaction Module**: Handles deposits, withdrawals, and records transaction details such as type, amount, and timestamp  
+📧 Notifications
+The system includes an email notification feature that sends real-time alerts for every transaction, improving transparency and user awareness.
+
+🌟 Conclusion
+SmartBank demonstrates a complete full-stack application by integrating frontend, backend, and database technologies. It highlights concepts like REST API development, database management, and real-time notifications.
+
+## 👩‍💻 Author
+Hansika Chaya
