@@ -1,7 +1,7 @@
-# Backend (Spring Boot)
+# Backend
 demo/target/
 
-# Frontend (React/Node)
+# Frontend
 bank-frontend/node_modules/
 bank-frontend/build/
 
