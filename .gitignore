@@ -1,0 +1,20 @@
+# Backend (Spring Boot)
+demo/target/
+
+# Frontend (React/Node)
+bank-frontend/node_modules/
+bank-frontend/build/
+
+# IDE
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
